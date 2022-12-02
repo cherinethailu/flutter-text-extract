@@ -1,0 +1,9 @@
+{
+  "files": [
+    "eng.traineddata",
+    "amh.traineddata",
+    "OCRB.traineddata",
+    "pdf.ttf",
+    "financial.traineddata"
+  ]
+}
